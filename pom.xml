@@ -11,6 +11,7 @@
             <artifactId>AbsoluteLayout</artifactId>
             <version>RELEASE170</version>
         </dependency>
+
         <dependency>
             <groupId>com.formdev</groupId>
             <artifactId>flatlaf</artifactId>
@@ -66,6 +67,12 @@
             <groupId>javazoom</groupId>
             <artifactId>jlayer</artifactId>
             <version>1.0.1</version> <!-- Verifica la última versión disponible -->
+        </dependency>
+        <dependency>
+            <groupId>com.github.axet</groupId>
+            <artifactId>javamp3</artifactId>
+            <version>1.0.0</version>
+            <type>jar</type>
         </dependency>
     </dependencies>
     <properties>
